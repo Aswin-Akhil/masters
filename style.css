@@ -1,0 +1,12 @@
+body {
+    background-image: linear-gradient(to right,red,orange,yellow);
+}
+
+#d1 {
+    margin-left: 27%;
+    background-color: white;
+    width: 450px;
+    height: 450px;
+    padding-left: 143px; 
+    border-radius: 2%;
+}
